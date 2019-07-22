@@ -25,3 +25,5 @@ class Dog
 end
 
 lassie = Dog.new
+
+puts Dog
