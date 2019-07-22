@@ -27,3 +27,5 @@ end
 lassie = Dog.new
 
 puts Dog
+
+binding.pry
